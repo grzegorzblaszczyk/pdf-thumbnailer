@@ -6,7 +6,7 @@ CAT=`which cat`
 CUT=`which cut`
 GREP=`which grep`
 WC=`which wc`
-CONVERT=`which convertee`
+CONVERT=`which convert`
 HEIGHT=259
 
 ### DO NOT EDIT BELOW THIS LINE ###
