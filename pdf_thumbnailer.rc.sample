@@ -1,0 +1,8 @@
+#Username to use with scp command
+scp_upload_username=john
+
+#Hostname to use with scp command
+scp_upload_hostname=example.com
+
+#Destination directory to upload
+scp_upload_directory=/home/john/some/dir/to/upload
