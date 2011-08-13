@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Create PDF Thumbnail v0.2
-
 # Changelog:
 #
 # 0.2 - added upload feature via SCP and use of ~/.pdf_thumbnailer.rc file
