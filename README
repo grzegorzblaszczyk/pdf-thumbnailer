@@ -1,0 +1,4 @@
+You can run it like this:
+
+./create_pdf_thumbnail.sh some_pdf_file.pdf
+
